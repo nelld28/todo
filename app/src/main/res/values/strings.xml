@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="next_btn">next</string>
+    <string name="detail_btn">detail</string>
+    <string name="prev_btn">prev</string>
+    <string name="title">title</string>
+</resources>
