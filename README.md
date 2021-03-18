@@ -7,4 +7,4 @@
 <img src = "screenshots/landscape.png" width = 150>
 
 <h2>GIF</h2>
-<img src = "screenshots/todokGIF.gif" width = 150>
+<img src = "screenshots/todokGIF.gif" width = 200>
